@@ -1,7 +1,3 @@
-Here's a polished and professional GitHub post for your Age Calculator project:
-
----
-
 # 🌟 Age Calculator Application
 
 **Welcome to the Age Calculator Application!** 🎉
@@ -38,18 +34,6 @@ Working:
 ![Screenshot 2024-12-29 134450](https://github.com/user-attachments/assets/e2ecb7a6-b5a2-4ace-b6cf-7da94f3329d2)
 Alert:
 ![Screenshot 2024-12-29 134525](https://github.com/user-attachments/assets/63f0f1bd-2eab-4f5c-af33-c459b32fb245)
-
-
-## 📝 How to Use:
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/age-calculator.git
-   ```
-2. Navigate to the project folder:  
-   ```bash
-   cd age-calculator
-   ```
-3. Open `index.html` in your browser to use the app.
 
 ## 🤝 Contributions:
 Feel free to fork this repository, submit issues, or suggest enhancements. Contributions are always welcome!  
